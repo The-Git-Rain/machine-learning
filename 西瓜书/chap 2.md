@@ -21,4 +21,6 @@ Fβ=（1+β²）PR/(β²R)+P
 ROC图：   
 纵轴：真正例率 TPR=TP/(TP+FN) 即P  
 横轴：假正例率 FPR=FP/(TN+FP)  
-AUC即ROC曲线下的面积同时等于1-loss
+AUC即ROC曲线下的面积同时等于1-loss  
+假设检验  交叉验证t检验等检验方法  
+噪声为 Ed[(yd-y)²]
